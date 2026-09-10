@@ -6,7 +6,7 @@ AI Multi-Agent Financial Research Platform v1.7 is a Python-based financial rese
 
 The platform analyzes multiple dimensions of financial markets simultaneously and converts them into a structured market view, final decision and professional research dashboard.
 
-![AI Multi-Agent Financial Research Platform v1.7](37a61ae1-2b17-41fb-a6f6-31e8b4db77df.png)
+![AI Multi-Agent Financial Research Platform v1.7])(v1.7-financial-intelligence-dashboard.png)
 
 ---
 
